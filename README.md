@@ -1,11 +1,16 @@
 ## Hi there 👋
+
+
+[![Y1Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1Xuan1203)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Y1Xuan1203/Y1Xuan1203/blob/main/yixuan.png" />
   <img src="https://github.com/Y1Xuan1203/Y1Xuan1203/blob/main/yixuan.png" />
 </picture> 
-
-[![Y1Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1Xuan1203)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **Y1Xuan1203/Y1XUAN1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
