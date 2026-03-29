@@ -1,4 +1,7 @@
 ## Hi there 👋
+<picture>
+<img src="https://www.miyoushe.com/zzz/article/65267445"/>
+</picture> 
 [![Y1Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1Xuan1203)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Y1Xuan1203/Y1XUAN1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
