@@ -1,8 +1,9 @@
 ## Hi there 👋
-<picture>
-  <img src="https://github.com/Y1Xuan1203/Y1Xuan1203/blob/main/qiaoqiao.png" style="width: 300px; height: auto;"/>
-</picture> 
-
+<div style="text-align: center;">
+  <picture>
+    <img src="https://github.com/Y1Xuan1203/Y1Xuan1203/blob/main/qiaoqiao.png" style="width: 300px; height: auto;"/>
+  </picture> 
+</div>
 [![Y1Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1Xuan1203)](https://github.com/anuraghazra/github-readme-stats)
 
 
