@@ -1,7 +1,7 @@
 ## Hi there 👋
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.miyoushe.com/zzz/article/65267445" />
-  <img src="https://www.miyoushe.com/zzz/article/65267445" />
+  <source media="(prefers-color-scheme: dark)" srcset="[https://www.miyoushe.com/zzz/article/65267445](https://github.com/Y1Xuan1203/Y1Xuan1203/blob/main/yixuan.png)" />
+  <img src="[https://www.miyoushe.com/zzz/article/65267445](https://github.com/Y1Xuan1203/Y1Xuan1203/blob/main/yixuan.png)" />
 </picture> 
 
 [![Y1Xuan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y1Xuan1203)](https://github.com/anuraghazra/github-readme-stats)
